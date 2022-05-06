@@ -7,6 +7,6 @@ The API to do this authentication is found here: ExorLive OAuth 2.0 Authenticati
 ## The methods
 
 - All calls should have these headers:
-	-"ExorLive-Client": "*client named to be agreed upon with ExorLive AS.*"
-	-"Authorization": "Bearer *accesstoken*"
--The base URL for all these methods is: *https://exorlive.com/*
+	- "ExorLive-Client": "*client named to be agreed upon with ExorLive AS.*"
+	- "Authorization": "Bearer *accesstoken*"
+- The base URL for all these methods is: *https://exorlive.com/*
