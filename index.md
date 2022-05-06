@@ -11,4 +11,4 @@ public class Foo {
 
 ## Subheader
 
-See API documentation [here](https://exorlive.github.io/github_pages_test/exorlive_restapi).
+See API documentation [here](https://exorlive.github.io/github_pages_test/exorlive_restapi.md).
