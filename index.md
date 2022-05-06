@@ -1,6 +1,6 @@
 # This is a header
 
-A paragraph. With __bold__ text. With _italic_ text.
+A paragraph. With **bold** text. With _italic_ text.
 
 ```csharp
 // Example on c# code.
@@ -10,3 +10,5 @@ public class Foo {
 ```
 
 ## Subheader
+
+See API documentation [here](https://exorlive.github.io/github_pages_test/exorlive_restapi).
