@@ -1,5 +1,6 @@
-[Back to frontpage](https://exorlive.github.io/github_pages_test/)
 # ExorLive API
+
+[Back to frontpage](https://exorlive.github.io/github_pages_test/)
 
 ## Authentication
 
@@ -23,7 +24,7 @@ Gets a user which can be | Instructor | Administrator | Contact with login | Con
 
 ## Method:
 
-  `GET`
+  **`GET`**
   
 ## URL Params
 
@@ -35,6 +36,7 @@ Sample call: https://exorlive.com/api4/user/lookupuser?`type`=officialid&`text`=
 ## Success Response:
 
   Code: 200 OK
+  
   Content: 
   ```json
   {
