@@ -13,7 +13,7 @@ The API to do this authentication is found here: ExorLive OAuth 2.0 Authenticati
 - "Authorization": "*Bearer _accesstoken*"
 - The base URL for all these methods is: *https://exorlive.com/*
 
-[ Base URL: exorlive.com/api4]
+[ Base URL: exorlive.com/api4 ]
 
 # User
 Gets a user which can be | Instructor | Administrator | Contact with login | Contact
