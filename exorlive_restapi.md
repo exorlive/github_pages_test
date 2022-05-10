@@ -27,7 +27,7 @@ Gets a user which can be | Instructor | Administrator | Contact with login | Con
   
 ## URL Params
 
-- type: `email`|`id`|`name`|`customid`|`officialid` 
+- type: `email`\|`id`\|`name`\|`customid`\|`officialid` 
 - text: `Text to search for`
 
 Sample call: https://exorlive.com/api4/user/lookupuser?`type`=officialid&`text`=05078012345
@@ -61,13 +61,13 @@ Sample call: https://exorlive.com/api4/user/lookupuser?`type`=officialid&`text`=
 ## Status codes / Error codes:
 
   - 200 OK
-  - 401 UNAUTHORIZED - When authentication is required and has failed or has not yet been provided<br />
+  - 401 UNAUTHORIZED - When authentication is required and has failed or has not yet been provided
   - 500 Internal Error - Unexpected condition was encountered and no more specific message is suitable
 
 * **Sample Call:**
 
-  <_sample call to endpoint in a runnable format_> 
+  sample call to endpoint in a runnable format
 
 * **Notes:**
 
-  <_comments, nice to know etc..._>
+  comments, nice to know etc...
