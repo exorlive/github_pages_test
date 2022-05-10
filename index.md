@@ -1,4 +1,4 @@
-# This is a header
+# ExorLive DX
 
 A paragraph. With **bold** text. With _italic_ text.
 
@@ -15,12 +15,12 @@ See API documentation [here](https://exorlive.github.io/github_pages_test/exorli
 
 # Table of contents
 - Products
-    - [Exorlive APP](#ExorLive-App)
-    - [Webside](#Webside)
-    - [EAT](#EAT)
-    - [EL GO](#GO)
+    - Exorlive APP
+    - Webside
+    - EAT
+    - EL GO
 - Infrastructure
-    - [ExorLive database](#ExorLive-Database) 
+    - ExorLive database 
 
 
 ## ExorLive-App
