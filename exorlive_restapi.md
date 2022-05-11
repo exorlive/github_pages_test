@@ -12,7 +12,9 @@ The API to do this authentication is found here: ExorLive OAuth 2.0 Authenticati
 - All calls should have these headers:
 - "ExorLive-Client": "*client named to be agreed upon with ExorLive AS.*"
 - "Authorization": "*Bearer _accesstoken*"
-- The base URL for all these methods is: *https://exorlive.com/*
+- The base URL for all these methods is: *https://exorlive.com/*\*
+
+***
 
 [ Base URL: exorlive.com/api4 ]
 
@@ -26,7 +28,7 @@ Gets a user which can be | Instructor | Administrator | Contact with login | Con
 
   **`GET`**
   
-## URL Params
+## URL Params:
 
 - type: `email`\|`id`\|`name`\|`customid`\|`officialid` 
 - text: `Text to search for`
@@ -66,9 +68,6 @@ Sample call: https://exorlive.com/api4/user/lookupuser?`type`=officialid&`text`=
   - 401 UNAUTHORIZED - When authentication is required and has failed or has not yet been provided
   - 500 Internal Error - Unexpected condition was encountered and no more specific message is suitable
 
-* **Sample Call:**
-
-  sample call to endpoint in a runnable format
 
 * **Notes:**
 
