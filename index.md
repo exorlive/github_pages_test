@@ -1,7 +1,5 @@
 {% include sidebar_menu.md %}
 
-<div class="content">
-
 # Overview
 
 This documentation describes the different ways a partner application may communicate with ExorLive. It is called the "link" between ExorLive and the partner application and the main objective is to allow the partner application to be the "master" of the clients data and ExorLive to be the "slave" that provides exercise data to the partner application.
@@ -35,5 +33,3 @@ See the methods here.
 ### Get Exercise Programs from the ExorLive system
 
 Methods for downloading workouts assigned to clients/contacts. Download PDF and link the workouts and store these in our own system. The Workout Exporter API is documented here
-
-</div>

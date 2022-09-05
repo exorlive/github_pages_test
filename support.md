@@ -15,7 +15,7 @@
   <a href="https://exorlive.github.io/github_pages_test/definitions">Definitions</a></br>
   <a href="https://exorlive.github.io/github_pages_test/workout_exporter">Workout exporter</a></br>
 </div>
-<div class="content">
+<div class="content" markdown=1>
 
 
 # ExorLive support
