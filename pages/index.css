@@ -1,0 +1,24 @@
+.bdy{
+    background-color: black;
+}
+.index_sidebar {
+    width:25%; 
+    background-color: rgb(9, 40, 82);
+    border-radius: 5px;
+    padding: 5px;
+}
+.index_sidebar h3{
+    color: rgb(255, 159, 52);
+}
+.index_sidebar a{
+    color: white;
+    margin: 10px;
+}
+
+.content{
+    margin-left:25%;
+    padding: 10px;
+    top: 0;
+    position: absolute;
+    background-color: black;
+}
