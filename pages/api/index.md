@@ -1,4 +1,4 @@
-{% include_relative sidebar_menu.md %}
+{% include sidebar_menu.md %}
 
 <div class="content">
 
