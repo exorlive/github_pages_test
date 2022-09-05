@@ -1,4 +1,4 @@
-{% include sidebar_menu.html %}
+{% include menu.md %}
 
 # Overview
 
