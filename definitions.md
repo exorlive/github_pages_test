@@ -45,6 +45,3 @@ Our HTML5 based product tailored for running in mobile browsers. The intended us
 - exorlive.com/app/ - The main ExorLive application, for instructors.
 
 - developer.exorlive.com - The site of this documentation.
-
-</div>
-</html>

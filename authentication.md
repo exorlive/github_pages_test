@@ -136,5 +136,3 @@ private string RefreshAccessToken()
 ```
 
 For all the details, see the downloadable codesamples.
-</div>
-</html>
