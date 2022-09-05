@@ -55,5 +55,3 @@ The older version of our API can be found here
 #### Web-to-web
 
 It's also possible to use our web-to-web solution, but this variant is deprecated and is going to be phased out eventually.
-</div>
-</html>

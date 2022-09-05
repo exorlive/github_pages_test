@@ -192,6 +192,3 @@ and here is a sample JSON for the GetWorkoutPDF-call:
   ]
 }
 ```
-
-</div>
-</html>

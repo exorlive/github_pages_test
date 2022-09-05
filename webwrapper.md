@@ -290,5 +290,3 @@ Here is a complete JSON example:
 	}
 }
 ```
-</div>
-</html>

@@ -1,26 +1,26 @@
 ## API
 
-- [Overview]("https://exorlive.github.io/github_pages_test/")
+- [Overview]("/index")
 
-- [Getting started]("https://exorlive.github.io/github_pages_test/getting_started")
+- [Getting started]("/getting_started")
 
-- [Support]("https://exorlive.github.io/github_pages_test/support")
+- [Support]("/support")
 
 ## Cases
 
-- [Link main ExorLive app]("https://exorlive.github.io/github_pages_test/link_exorlive_main")
+- [Link main ExorLive app]("/link_exorlive_main")
 
-- [Integrate ExorLive GO]("https://exorlive.github.io/github_pages_test/link_exorlive_go")
+- [Integrate ExorLive GO]("/link_exorlive_go")
 
 
 ## Details
 
-- [Methods]("https://exorlive.github.io/github_pages_test/methods")
+- [Methods]("/methods")
 
-- [Authentication]("https://exorlive.github.io/github_pages_test/methods")
+- [Authentication]("/authentication")
 
-- [Account Management]("https://exorlive.github.io/github_pages_test/account_management")
+- [Account Management]("/account_management")
 
-- [Definitions]("https://exorlive.github.io/github_pages_test/definitions")
+- [Definitions]("/definitions")
 
-- [Workout exporter]("https://exorlive.github.io/github_pages_test/workout_exporter")
+- [Workout exporter]("/workout_exporter")

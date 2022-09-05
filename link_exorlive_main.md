@@ -15,6 +15,3 @@ Desktop to web - deprecated
 When working with a web application you can [open our solution in a new tab or iframe it in](/partner_link_jwt.md).
 
 Web to web - deprecated 
-
-</div>
-</html>

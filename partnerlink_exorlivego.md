@@ -69,6 +69,3 @@ You may get the skin code from ExorLive Support, or you may find it yourself in 
 
 Complete sample code may be [downloaded here](/SampleNativeAppToPersonal.zip).
 It is written in C# / .NET but the principles shown here applies to any language supporting HTTP and JSON.
-
-</div>
-</html>

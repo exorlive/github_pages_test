@@ -38,6 +38,3 @@ Methods for the Plan template API are found here.
 A demo-application written in Javascript is found here: https://exorlive.com/test/GoApiDemo.html
 
 To use this demo, make sure to be logged in to ExorLive in another tab/window.
-
-</div>
-</html>

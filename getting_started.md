@@ -27,5 +27,3 @@ Depending on how you are planning to use our API you might have to whitelist our
 - exorlive.com/m/ - ExorLive Go.
 
 - exorlive.com/app/ - The main ExorLive application, for instructors.
-</div>
-</html>

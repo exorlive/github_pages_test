@@ -166,5 +166,3 @@ Form POST request in JS
 </body>
 </html>
 ```
-</div>
-</html>
