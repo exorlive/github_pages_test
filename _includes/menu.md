@@ -1,26 +1,26 @@
 ## API
 
-- [Overview]("/index")
+- [Overview]("")
 
-- [Getting started]("/getting_started")
+- [Getting started]("getting_started")
 
-- [Support]("/support")
+- [Support]("support")
 
 ## Cases
 
-- [Link main ExorLive app]("/link_exorlive_main")
+- [Link main ExorLive app]("link_exorlive_main")
 
-- [Integrate ExorLive GO]("/link_exorlive_go")
+- [Integrate ExorLive GO]("link_exorlive_go")
 
 
 ## Details
 
-- [Methods]("/methods")
+- [Methods]("methods")
 
-- [Authentication]("/authentication")
+- [Authentication]("authentication")
 
-- [Account Management]("/account_management")
+- [Account Management]("account_management")
 
-- [Definitions]("/definitions")
+- [Definitions]("definitions")
 
-- [Workout exporter]("/workout_exporter")
+- [Workout exporter]("workout_exporter")
