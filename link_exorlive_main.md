@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # Link to the main ExorLive application
 
 The instructor works with a contact in the partner application and from there opens the ExorLive application to create exercise programs and plans to that contact. See the different ways this may be done below.

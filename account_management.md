@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # Account Management
 
 The methods here are used to manage several ExorLive accounts.

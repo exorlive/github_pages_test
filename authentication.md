@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # ExorLive Authentication - OAuth 2.0
 
 ExorLive uses OAUTH 2.0 for authentication.

@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # Link to ExorLive Go
 
 ExorLive Go is an HTML5 web app with some limited functionality. For example; it is not possible for the contact to create new exercise programs, only receive them from an instructor.

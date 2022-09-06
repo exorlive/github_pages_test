@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # Partner link to ExorLive Go
 
 ## ExorLive Go

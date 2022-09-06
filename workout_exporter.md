@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # ExorLive Workout Exporter
 
 ExorLive offers two solutions for exporting workouts:

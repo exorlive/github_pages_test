@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # ExorLive support
 
 Contact us at support@exorlive.com.

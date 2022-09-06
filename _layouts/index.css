@@ -1,0 +1,12 @@
+.sidebar_menu{
+    color: white; 
+    position:absolute; 
+    margin:30px; 
+    border-radius:5px; 
+    padding: 10px; 
+    background-color: #155799;
+}
+
+.sidebar_menu a{
+    color: white;
+}

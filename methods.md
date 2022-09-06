@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # ExorLive REST API
 
 ## Authentication

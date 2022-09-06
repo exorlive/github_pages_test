@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # Link a partner application to ExorLive with JWT
 
 Exorlive would like to make the process of making a link with partner applications as straightforward as possible. Therefore, ExorLive deals internally with the complicated logic of identitfy, creating, and authenticating users.
