@@ -247,5 +247,3 @@ var data = new Dictionary<string, string>
 string parameters = MakeQueryParameters(data);
 string response = SendHttpRequest("GET", reqUri, "application/json", parameters, accessToken); // Do the call
 ```
-</div>
-</html>
