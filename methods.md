@@ -24,7 +24,7 @@ The base URL for all these methods is: [https://exorlive.com/](https://exorlive.
 
  Hence, a typical application to use this API is an application for the end user to view his/her training and to record new training sessions. Similar to the mobile application called "ExorLive Go".
 
-- The general methods are found [here]().
+- The general methods are found [here](/api/goclient.md).
 
 - Methods for the Plan template API are found [here]().
 
@@ -40,7 +40,7 @@ Methods for creating and looking up users are found [here]().
 
 #### Workout Exporter API
 
-Methods for downloading workouts assigned to clients/contacts. Download PDF and link of the workouts and store these in the our own system. The Workout Exporter API is documented here.
+Methods for downloading workouts assigned to clients/contacts. Download PDF and link of the workouts and store these in the our own system. The Workout Exporter API is documented [here](/workout_exporter.md).
 
 A comprehensive code sample may be downloaded [here](./SampleExternalAppToExorLive.zip). It shows the authentication and backend methods, amoung other things. It is well commented code and has more details than found on this webpage.
 
