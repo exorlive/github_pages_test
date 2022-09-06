@@ -26,7 +26,7 @@ The base URL for all these methods is: [https://exorlive.com/](https://exorlive.
 
 - The general methods are found [here](/api/goclient.md).
 
-- Methods for the Plan template API are found [here]().
+- Methods for the Plan template API are found [here](/api/plantemplate.md).
 
 - A demo-application written in Javascript is found here: [https://exorlive.com/test/GoApiDemo.html](https://exorlive.com/test/GoApiDemo.html)
 
@@ -36,7 +36,7 @@ To use this demo, make sure to be logged in to ExorLive in another tab/window.
 
 #### The User API - version 4
 
-Methods for creating and looking up users are found [here]().
+Methods for creating and looking up users are found [here](/api/user.md).
 
 #### Workout Exporter API
 
