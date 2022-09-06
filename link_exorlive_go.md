@@ -29,9 +29,9 @@ If you wish to create your own application but still have access to the data pro
 
 A typical use-case for this API is an application for the end user to view his/her training and to record new training sessions.
 
-The general methods are found [here](/goclient_restapi.md).
+The general methods are found [here](/api/goclient.md).
 
-Methods for the Plan template API are found here.
+Methods for the Plan template API are found [here](/api/plantemplate.md).
 
 A demo-application written in Javascript is found here: https://exorlive.com/test/GoApiDemo.html
 
