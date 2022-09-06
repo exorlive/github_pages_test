@@ -30,4 +30,4 @@ See the methods here.
 
 ### Get Exercise Programs from the ExorLive system
 
-Methods for downloading workouts assigned to clients/contacts. Download PDF and link the workouts and store these in our own system. The Workout Exporter API is documented here
+Methods for downloading workouts assigned to clients/contacts.  PDF and link the workouts and store these in our own system. The Workout Exporter API is documented here

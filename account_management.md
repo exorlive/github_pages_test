@@ -24,7 +24,7 @@ Example ExorLive login form:
 ![ExorLiveLoginForm](/images/PartnerConnectForm.png)
 
 Here is a link to an ExorLive logo you may use:
-http://developer.exorlive.com/images/exorlivelogo.png
+[http://developer.exorlive.com/images/exorlivelogo.png](http://developer.exorlive.com/images/exorlivelogo.png)
 
 This form is used only once for each customer (each ExorLive Organization). ExorLive will store that the connection is approved for that organization.
 

@@ -10,7 +10,7 @@ All calls should have these headers:
 "ExorLive-Client": "client named to be agreed upon with ExorLive AS."
 "Authorization": "Bearer accesstoken"
 
-The base URL for all these methods is: https://exorlive.com/
+The base URL for all these methods is: [https://exorlive.com/](https://exorlive.com/)
 
 ### Functions available to implement your own mobile application like ExorLive Go
 
@@ -28,7 +28,7 @@ The base URL for all these methods is: https://exorlive.com/
 
 - Methods for the Plan template API are found [here]().
 
-- A demo-application written in Javascript is found here: https://exorlive.com/test/GoApiDemo.html
+- A demo-application written in Javascript is found here: [https://exorlive.com/test/GoApiDemo.html](https://exorlive.com/test/GoApiDemo.html)
 
 To use this demo, make sure to be logged in to ExorLive in another tab/window.
 
@@ -42,7 +42,7 @@ Methods for creating and looking up users are found [here]().
 
 Methods for downloading workouts assigned to clients/contacts. Download PDF and link of the workouts and store these in the our own system. The Workout Exporter API is documented here.
 
-A comprehensive code sample may be downloaded here. It shows the authentication and backend methods, amoung other things. It is well commented code and has more details than found on this webpage.
+A comprehensive code sample may be downloaded [here](./SampleExternalAppToExorLive.zip). It shows the authentication and backend methods, amoung other things. It is well commented code and has more details than found on this webpage.
 
 ### Deprecated resources
 
